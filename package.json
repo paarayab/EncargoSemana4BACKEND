@@ -1,0 +1,24 @@
+{
+  "name": "encargo-semana-4",
+  "version": "1.0.0",
+  "description": "Encargo Semana 4 Programación Backend IPG",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "RESTful",
+    "IPG",
+    "backend",
+    "express.js"
+  ],
+  "author": "Pedro Araya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
