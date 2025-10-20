@@ -110,9 +110,10 @@ Elimina una tarea de la lista según su `id`.
 <img width="1240" height="643" alt="Captura de pantalla 2025-10-20 002013" src="https://github.com/user-attachments/assets/74ebe190-4d1b-4b63-acbc-b2b638645114" />
 
 
-
-
 * **Ejemplo de Respuesta JSON:**
 
-  
+  {
+    "message": "Tarea eliminada exitosamente"
+  }
+
 
