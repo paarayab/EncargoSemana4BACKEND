@@ -37,6 +37,7 @@ Todas las rutas están bajo el prefijo `/api`.
 ### 1. Listar todas las tareas `(GET /api/tareas)`
 
 Obtiene la lista completa de tareas.
+<img width="1820" height="962" alt="image" src="https://github.com/user-attachments/assets/73089c26-4c4f-41d8-acb0-b487fab36aa7" />
 
 * **Ejemplo de Petición (cURL):**
    http://localhost:3000/api/tareas/
@@ -114,3 +115,4 @@ Elimina una tarea de la lista según su `id`.
 * **Ejemplo de Respuesta JSON:**
 
   
+
