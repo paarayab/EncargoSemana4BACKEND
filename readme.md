@@ -15,7 +15,8 @@ Los requisitos y lineamientos siguen lo enunciado en la evaluación de la semana
 1. Clonar este repositorio:
    ```bash
    git clone 
-   cd 
+   cd <img width="1240" height="643" alt="Captura de pantalla 2025-10-20 002013" src="https://github.com/user-attachments/assets/f2317cae-51ce-4a95-81f0-a06ae99aaaad" />
+
    ```
 2. Instalar dependencias:
    ```bash
@@ -65,6 +66,7 @@ Obtiene la lista completa de tareas.
 ### 2. Crear una nueva tarea `(POST /api/tareas)`
 
 Agrega una nueva tarea a la lista.
+<img width="1363" height="721" alt="Captura de pantalla 2025-10-20 001211" src="https://github.com/user-attachments/assets/582ec73a-19c2-4e7f-b2b9-b7ce4e2eaffc" />
 
 * **Ejemplo de Petición (cURL):**
    
@@ -84,6 +86,7 @@ Agrega una nueva tarea a la lista.
 ### 3. Actualizar una tarea existente `(PUT /api/tareas/:id)`
 
 Modifica los datos de una tarea existente, identificada por su `id`.
+<img width="1229" height="631" alt="Captura de pantalla 2025-10-20 001636" src="https://github.com/user-attachments/assets/414eeb5c-204c-49d8-992a-aae4b130cd46" />
 
 * **Ejemplo de Petición (cURL para marcar la tarea 2 como completada):**
 {
@@ -103,8 +106,11 @@ Modifica los datos de una tarea existente, identificada por su `id`.
 ### 4. Eliminar una tarea `(DELETE /api/tareas/:id)`
 
 Elimina una tarea de la lista según su `id`.
+<img width="1240" height="643" alt="Captura de pantalla 2025-10-20 002013" src="https://github.com/user-attachments/assets/74ebe190-4d1b-4b63-acbc-b2b638645114" />
 
-*
+
+
 
 * **Ejemplo de Respuesta JSON:**
+
   
